@@ -69,10 +69,7 @@ function writeToFile(fileName, data) {
         if (err) {
             console.log(err);
             return;
-        }else{
-            console.log('Success!');
-        }
-        
+        }        
     });
 };
 
@@ -85,7 +82,7 @@ function init() {
     })
     .then((generatedMarkdown) => {
         writeToFile('GeneratedREADME.md', generatedMarkdown);
-        console.log('README file has been generated')
+        console.log('A new README file has been generated.')
     })
     .catch((error) => {console.log(error);
     })
