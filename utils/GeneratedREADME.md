@@ -1,29 +1,29 @@
-# example
+# Example Project
 
-[![License](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://opensource.org/license/lgpl-3-0/)
+[![License](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/license/mpl-2-0/)
 
 ## Description 
 
-example
+This is a test of the README Generator.
 
 ## Installation 
 
-example 
+Run npm i and then node index.js 
 
 ## Usage 
 
-example
+Answer the questions and hit enter.
 
 ## License 
-This project uses [GNU Lesser General Public License version 3](https://opensource.org/license/lgpl-3-0/)
+This project uses [Mozilla Public License 2.0](https://opensource.org/license/mpl-2-0/)
 
 ## Contribute 
 
-example
+Make it prettier.
 
 ## Tests
 
-ajpupping
+Ask GLaDOS.
 
 ## Questions 
 
@@ -31,5 +31,5 @@ Please contact me if you have any questions!
 
 You can find me here on [Github](https://github.com/ajpupping)
 
-or send me an email: ajpupping@example.com
+or send me an email: ajpupping@gmail.com
 
